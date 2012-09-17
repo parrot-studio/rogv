@@ -10,10 +10,15 @@ ROのGvGにおいて、「現状」を把握するためのシステムです。
 
 - https://github.com/parrot-studio/rogv_server
 - https://github.com/parrot-studio/rogv_client
+- https://github.com/parrot-studio/rogv_viewer
 
 Sample Site
 ---------------
 http://parrot-studio.com/rogvs/
+
+Public Site
+---------------
+http://parrot-studio.com/gimle/
 
 License
 ---------------
