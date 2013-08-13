@@ -8,13 +8,13 @@ ROのGvGにおいて、「現状」を把握するためのシステムです。
 
 詳細は各リポジトリを参照してください。
 
-- https://github.com/parrot-studio/rogv_server
+- https://github.com/parrot-studio/gagnrath
 - https://github.com/parrot-studio/rogv_client
 - https://github.com/parrot-studio/rogv_viewer
 
 Sample Site
 ---------------
-http://parrot-studio.com/rogvs/
+http://ro.parrot-studio.com/rogvs/
 
 Public Site
 ---------------
