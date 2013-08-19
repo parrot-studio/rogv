@@ -10,7 +10,7 @@ ROのGvGにおいて、「現状」を把握するためのシステムです。
 
 - https://github.com/parrot-studio/gagnrath
 - https://github.com/parrot-studio/rogv_client
-- https://github.com/parrot-studio/rogv_viewer
+- https://github.com/parrot-studio/gagnrath_viewer
 
 Sample Site
 ---------------
@@ -18,7 +18,7 @@ http://ro.parrot-studio.com/rogvs/
 
 Public Site
 ---------------
-http://parrot-studio.com/gimle/
+http://ro.parrot-studio.com/gimle/
 
 License
 ---------------
